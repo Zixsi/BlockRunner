@@ -1,0 +1,38 @@
+Initialize engine version: 5.3.0f4 (2524e04062b4)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.1]
+    Renderer: NVIDIA GeForce 315M   (ID=0xa7a)
+    Vendor:   NVIDIA
+    VRAM:     978 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\dima_work\elerise\Unity Projects\5.3\BlockRunner\bin\pc\Game_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\dima_work\elerise\Unity Projects\5.3\BlockRunner\bin\pc\Game_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\dima_work\elerise\Unity Projects\5.3\BlockRunner\bin\pc\Game_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\dima_work\elerise\Unity Projects\5.3\BlockRunner\bin\pc\Game_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\dima_work\elerise\Unity Projects\5.3\BlockRunner\bin\pc\Game_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\dima_work\elerise\Unity Projects\5.3\BlockRunner\bin\pc\Game_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\dima_work\elerise\Unity Projects\5.3\BlockRunner\bin\pc\Game_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\dima_work\elerise\Unity Projects\5.3\BlockRunner\bin\pc\Game_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.095 seconds
+Platform assembly: D:\dima_work\elerise\Unity Projects\5.3\BlockRunner\bin\pc\Game_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\dima_work\elerise\Unity Projects\5.3\BlockRunner\bin\pc\Game_Data\Managed\System.dll (this message is harmless)
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initialized touch support.
+UnloadTime: 0.948533 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 33d0 -> priority: 1 
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 14.419705 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1456.
+Total: 0.870771 ms (FindLiveObjects: 0.124341 ms CreateObjectMapping: 0.141279 ms MarkObjects: 0.591678 ms  DeleteObjects: 0.012318 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.452141 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 1456.
+Total: 0.796475 ms (FindLiveObjects: 0.125110 ms CreateObjectMapping: 0.074681 ms MarkObjects: 0.584749 ms  DeleteObjects: 0.011163 ms)
+

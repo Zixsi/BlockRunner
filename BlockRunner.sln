@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlockRunner.CSharp", "BlockRunner.CSharp.csproj", "{873A4F6C-1325-9BA9-394E-25327FFBD456}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlockRunner.CSharp.Editor", "BlockRunner.CSharp.Editor.csproj", "{5A83A346-0505-56EC-7EF2-5B56CADB8051}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{873A4F6C-1325-9BA9-394E-25327FFBD456}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{873A4F6C-1325-9BA9-394E-25327FFBD456}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{873A4F6C-1325-9BA9-394E-25327FFBD456}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{873A4F6C-1325-9BA9-394E-25327FFBD456}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A83A346-0505-56EC-7EF2-5B56CADB8051}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A83A346-0505-56EC-7EF2-5B56CADB8051}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A83A346-0505-56EC-7EF2-5B56CADB8051}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A83A346-0505-56EC-7EF2-5B56CADB8051}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
